@@ -1,6 +1,7 @@
 # IndCol_Restructure
 - Repo contains code to restructure data for the Self-Construal (Individualism/Collectivism) scale exported from REDCap
-- The original scale labels the subscales as independent and interdependent. For the purposes of this repo, independent is individualism (ind), and interdependent is collectivism (col)
+- The original scale labels the subscales as independent and interdependent. For the purposes of this repo, independent statements are labeled as individualism (ind), and interdependent statements are labeled as collectivism (col)
+- **Note for Kendra:** Do you anticipate our lab investigating this data using horizontal and vertical dimensions of individualism and collectivism? Alejandro let me know that this scale doesn't fit the statements into horizontal and vertical subdivisions, just individualism and collectivism.
 
 ## Functions
 - icclean(*df*) 
