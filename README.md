@@ -1,4 +1,4 @@
-# IndCol_Restructure
+# SelfConstrual_Restructure
 - Repo contains code to restructure data for the Self-Construal (Individualism/Collectivism) scale exported from REDCap
 - The original scale labels the subscales as independent and interdependent. For the purposes of this repo, independent statements are labeled as individualism (ind), and interdependent statements are labeled as collectivism (col)
 
